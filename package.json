@@ -3,7 +3,9 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.22.1"
+    "express": "^4.22.3",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
